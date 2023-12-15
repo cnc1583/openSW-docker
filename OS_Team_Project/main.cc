@@ -100,7 +100,7 @@ int main() {
         // print result
         cout << result.second << " " << result.first<<"\n";
       }
-      }
     }
   }
+}
 
