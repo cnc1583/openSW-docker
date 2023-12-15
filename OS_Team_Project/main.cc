@@ -97,10 +97,8 @@ int main() {
           cout << 0 << "\n";
           continue;
 	}
-      }
-
-      // print result
-      cout << result.second << " " << result.first<<"\n";
+        // print result
+        cout << result.second << " " << result.first<<"\n";
       }
     }
   }
